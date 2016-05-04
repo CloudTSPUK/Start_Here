@@ -1,7 +1,7 @@
 ##Introduction
 The purpose of this introduction guide is to provide a foundational introduction to the core workflow associated with GitHub. This particular guide is a purely online and browser based introduction to GitHub. This guide does not leverage any specific GitHub client for working with GitHub, repositories and source files offline. 
 
-**The core workflow outlined in this document applies irrespective of whether you are using GitHub online or offline via GitHub clients.**
+**The core workflow outlined in this guide applies irrespective of whether you are using GitHub online or offline via GitHub clients.**
 
 **Side Note-**Some of the dedicated GitHub clients include:
 * Dedicated [GitHub for Desktop]( https://desktop.github.com/) application
