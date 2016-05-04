@@ -1,3 +1,17 @@
+##Introduction
+The purpose of this introduction guide is to provide a foundational introduction to the core workflow associated with GitHub. This particular guide is a purely online and browser based introduction to GitHub. This guide does not leverage any specific GitHub client for working with GitHub, repositories and source files offline. 
+
+**The core workflow outlined in this document applies irrespective of whether you are using GitHub online or offline via GitHub clients.**
+
+**Side Note -**An example of some dedicated GitHub clients include:
+* Dedicated [GitHub for Desktop]( https://desktop.github.com/) application
+*[Visual Studio’s GitHub Extension]( https://visualstudio.github.com/) providing integrated Visual Studio tooling for GitHub. 
+
+This introduction guide will provide the key information required to get up and running with 
+
+This introduction guide largely visualises and builds upon the official GitHub Hello World guide found
+
+[here](https://guides.github.com/activities/hello-world/).
 ### 1. Create a Repository
 ![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Step_1_Create_Repository.gif "Create a repository")
 ### 2. Create a Branch
