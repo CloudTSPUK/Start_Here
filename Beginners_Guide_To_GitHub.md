@@ -7,11 +7,8 @@ The purpose of this introduction guide is to provide a foundational introduction
 * Dedicated [GitHub for Desktop]( https://desktop.github.com/) application
 * [Visual Studio’s GitHub Extension]( https://visualstudio.github.com/) providing integrated Visual Studio tooling for GitHub. 
 
-This introduction guide will provide the key information required to get up and running with 
+This introduction guide largely visualises and ,where appropriate, builds upon the official GitHub Hello World guide found [here](https://guides.github.com/activities/hello-world/).
 
-This introduction guide largely visualises and builds upon the official GitHub Hello World guide found
-
-[here](https://guides.github.com/activities/hello-world/).
 ### 1. Create a Repository
 ![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Step_1_Create_Repository.gif "Create a repository")
 ### 2. Create a Branch
