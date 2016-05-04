@@ -3,9 +3,9 @@ The purpose of this introduction guide is to provide a foundational introduction
 
 **The core workflow outlined in this document applies irrespective of whether you are using GitHub online or offline via GitHub clients.**
 
-**Side Note -**An example of some dedicated GitHub clients include:
+**Side Note-**An example of some dedicated GitHub clients include:
 * Dedicated [GitHub for Desktop]( https://desktop.github.com/) application
-*[Visual Studio’s GitHub Extension]( https://visualstudio.github.com/) providing integrated Visual Studio tooling for GitHub. 
+* [Visual Studio’s GitHub Extension]( https://visualstudio.github.com/) providing integrated Visual Studio tooling for GitHub. 
 
 This introduction guide will provide the key information required to get up and running with 
 
