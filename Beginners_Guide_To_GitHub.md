@@ -10,9 +10,10 @@ This particular guide illustrates a browser based workflow for interfacing with 
 * [Visual Studio’s GitHub Extension]( https://visualstudio.github.com/) providing integrated Visual Studio tooling for GitHub. 
 * [Git Command Line Interface](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
-This introduction guide visualises and, where appropriate, builds upon the official introductory GitHub Hello World guide found [here](https://guides.github.com/activities/hello-world/).
+This guide visualises and, where appropriate, builds upon the official introductory GitHub Hello World guide found [here](https://guides.github.com/activities/hello-world/).
 
-This particular guide assumes you have GitHub.com account and Internet access, this is all that is needed to complete this guide. 
+This guide assumes you have GitHub.com account and Internet access, this is all that is needed to complete this guide. 
+
 ### 1. Log into [GitHub](https://github.com/)
 ### 2. Create a new [Repository](https://github.com/CloudTSPUK/Start_Here/blob/master/Git_Terminology#repository)
 The first step to creating any project or body of work when using Git is to create a new repository. Respositories can be created as being either Public or Private. A Public repository is one that is discoverable and accessible by the entire GitHub community. While a Private repository is a repository that is not discoverable by the larger GitHub community and where induvidual users need to be given direct access to the repository in order to work with it. 
