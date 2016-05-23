@@ -4,4 +4,4 @@ This repository acts as a starting place to learn all about the UK Cloud TSP Git
 
 This repository contains everything required to get someone from having never used Git and GitHub through to someone who is actively collaborating, contributing and consuming the demoes, presentations and assets stored within. 
 
-The best place to start is in learning how to use [GitHub and Git](https://www.google.com).
+The best place to start is in learning how to use [GitHub and Git](https://github.com/CloudTSPUK/Start_Here/blob/master/Beginners_Guide_To_GitHub.md).
