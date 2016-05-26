@@ -28,15 +28,13 @@ The process for creating a public repository with a README file in GitHub is as 
 ![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Step_1_Create_Repository.gif "Create a repository")
 
 ### 3. Create a [Branch](https://help.github.com/articles/github-glossary#branch)
-As referenced in the official glossary a branch is a parallel version of a repository. This parallel verison represents a complete copy of a repository at the point in which the branch was created.
+A branch is a parallel version of a repository. This parallel repository represents a complete copy of a repository at the point in which the branch was created.
 
 In almost all version control systems the first branch of a project is taken from what can be refered to as the master or trunk version of the source code/project items under source control. 
 
 Subsequent branches can be made to either the master or indeed other branches. The motivation for creating a branch and the point in time in which a branch is taken will come down to either personal preference or a wider branching team or organisation agreed branching strategy.
 
-Some guidance on branching strategies can be found [here](https://msdn.microsoft.com/en-us/library/bb668955.aspx) and [here](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows).
-
-This guide will create a branch from the master of the new repository created above. A change wil then be made in this branch and not on the master.
+This guide will create a branch from the master of the new repository created above. A change will then be made to this new branch.
 
 ![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Step_2_Create_A_Branch.gif "Create a branch")
 
@@ -79,5 +77,6 @@ It is generally accepted that branches offer a mechanism for handling different 
 
 It would then be a further consideration as to whether to keep all of these branches or to merge them back into either a parent branch or indeed the master source code. 
 
-All of these types of considerations will come down to the projects broader [branching strategy](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows).
+
+All of these types of considerations will come down to the projects branching strategy. Guidance on branching strategies can be found [here](https://msdn.microsoft.com/en-us/library/bb668955.aspx) and [here](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows).
 
