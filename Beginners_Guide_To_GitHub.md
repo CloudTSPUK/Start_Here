@@ -48,13 +48,13 @@ Below illustrates the process for editing the README file in browser and then co
 ![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Step_3_Make_and_commit_changes.gif "Make and commit changes")
 
 ### 5. Open a [Pull Request](https://help.github.com/articles/github-glossary#pull-request)
-Comitting a change to a branch in a repository on GitHub does not immediately guarantee that a change is accepted into the master of that repository. 
+Comitting a change to a branch in a repository on GitHub does not immediately guarantee that a change is accepted into the branch of that repository. 
 
-In order for a committed change to be included into the master (or branch) of a repository a commit must be associated with a Pull Request. 
+In order for a committed change to be included into a branch (or the master) of a repository a commit must be associated with a Pull Request. 
 
-Creating a Pull Request can be thought of as creating an indicator to the owner of the of the branch informing them that a change or contribution has been made that can be reviewed and considered for inclusion in the branch. 
+Creating a Pull Request can be thought of as creating an indicator to the owner of the of the branch informing them that a change or contribution has been made that can be reviewed and considered for inclusion in said branch. 
 
-The process for creating a Pull Request is demonstrated below.
+The process of creating a Pull Request is demonstrated below.
 
 ![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Step_4_Open_a_Pull_Request.gif "Open a Pull Request")
 
