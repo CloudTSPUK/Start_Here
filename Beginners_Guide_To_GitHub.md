@@ -50,13 +50,17 @@ Below illustrates the process for editing the README file in browser and then co
 ### 5. Open a [Pull Request](https://help.github.com/articles/github-glossary#pull-request)
 Comitting a change to a branch in a repository on GitHub does not immediately guarantee that a change is accepted into the master of that repository. 
 
-In order for a comitted change to be included into the master (or branch) of a repository a commit must be associated with a Pull Request. 
+In order for a committed change to be included into the master (or branch) of a repository a commit must be associated with a Pull Request. 
 
-A Pull Request can be thought of as raising up a flag or indicator to the original creator or author of the project item or source code to inform them that a change has been made that could be reviewed and considered for inclusion in the master (or branch) and ultimately in the product itself. 
+Creating a Pull Request can be thought of as creating an indicator to the owner of the of the branch informing them that a change or contribution has been made that can be reviewed and considered for inclusion in the branch. 
 
 The process for creating a Pull Request is demonstrated below.
 
 ![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Step_4_Open_a_Pull_Request.gif "Open a Pull Request")
+
+A further breakdown of a typical Pull Request can be seen below.
+
+![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Anatomy_Of_A_Pull_Request.PNG "Anatomy of a Pull Request")
 
 ### 6. [Merge](https://help.github.com/articles/github-glossary#merge) your Pull Request
 ![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Step_5_Merge_your_Pull _Request.gif "Merge a Pull Request")
