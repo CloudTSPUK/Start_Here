@@ -62,7 +62,13 @@ A further breakdown of a typical Pull Request can be seen below.
 
 ![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Anatomy_Of_A_Pull_Request.PNG "Anatomy of a Pull Request")
 
-### 6. [Merge](https://help.github.com/articles/github-glossary#merge) your Pull Request
+### 6. [Merge](https://help.github.com/articles/github-glossary#merge) the Pull Request
+The owner of the branch in which the pull reguest targetted will be alerted to the fact that there is an outstanding pull request open which needs reviewing. 
+
+Once the pull request has been reviewed the changes captured in the pull request can be merged into the target branch. in this guide the target branch is the master.
+
+Reviewing and merging a pull request is demonstrated below.
+
 ![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Step_5_Merge_your_Pull _Request.gif "Merge a Pull Request")
 
 **Note**: This guide illustrates an example of where a single user is working in a purely online capacity. This is an example of where the author of the commit and the creator of the pull request owns both the branch and the master of the repository. Due to this the process of creating a pull request for a commit on a branch only to accept and merge said pull request back into the master can appear as slightly convoluted and potentially redundant. 
