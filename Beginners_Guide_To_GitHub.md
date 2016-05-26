@@ -5,7 +5,7 @@ This particular guide illustrates a browser based workflow for interfacing with 
 
 **The core workflow/principles outlined in this guide apply irrespective of whether you are directly interfacing with online Git servers such as GitHub or Visual Studio Team Services or if you are working offline via Git clients that interface with GitHub, Visual Studio Team Services or other Git based version control systems.**
 
-**Side Note-**Some of the dedicated Git clients include:
+Some of the dedicated Git clients include:
 * [GitHub for Desktop]( https://desktop.github.com/) application.
 * [Visual Studio’s GitHub Extension]( https://visualstudio.github.com/) providing integrated Visual Studio tooling for GitHub. 
 * [Git Command Line Interface](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
@@ -15,10 +15,14 @@ This guide visualises and, where appropriate, builds upon the official introduct
 This guide assumes you have GitHub.com account and Internet access, this is all that is needed to complete this guide. 
 
 ### 1. Log into [GitHub](https://github.com/)
-### 2. Create a new [Repository](https://github.com/CloudTSPUK/Start_Here/blob/master/Git_Terminology.md#repository)
-The first step to creating any project or body of work when using Git is to create a new repository. Respositories can be created as being either Public or Private. A Public repository is one that is discoverable and accessible by the entire GitHub community. While a Private repository is a repository that is not discoverable by the larger GitHub community and where induvidual users need to be given direct access to the repository in order to work with it. 
+### 2. Create a new [Repository](https://help.github.com/articles/github-glossary#repository)
+The first step to creating any project or body of work when using Git is to create a new repository. 
 
-The process for creating a repository in GitHub is as follows:
+Respositories can be created as being either Public or Private. 
+* A Public repository is a repository that is discoverable and accessible by the entire GitHub community. 
+* A Private repository is a repository that is not discoverable by the larger GitHub community. Induvidual users need to be given direct access to the repository in order to work with it. 
+
+The process for creating a public repository in GitHub is as follows:
 
 ![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Step_1_Create_Repository.gif "Create a repository")
 
