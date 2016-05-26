@@ -36,12 +36,16 @@ Subsequent branches can be made to either the master or indeed other branches. T
 
 Some guidance on branching strategies can be found [here](https://msdn.microsoft.com/en-us/library/bb668955.aspx).
 
-This guide will branch off of the master of the new repository created above. A change wil then be made in this branch 
+This guide will create a branch from the master of the new repository created above. A change wil then be made in this branch and not on the master.
 
 ![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Step_2_Create_A_Branch.gif "Create a branch")
-### 4. Make and commit changes
+
+### 4. Make and [commit](https://help.github.com/articles/github-glossary#commit) changes
+
 ![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Step_3_Make_and_commit_changes.gif "Make and commit changes")
-### 5. Open a Pull Request
+
+### 5. Open a [Pull Request](https://help.github.com/articles/github-glossary#pullRequest)
+
 ![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Step_4_Open_a_Pull_Request.gif "Open a Pull Request")
 ### 6. Merge your Pull Request
 ![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Step_5_Merge_your_Pull _Request.gif "Merge a Pull Request")
