@@ -1,7 +1,7 @@
 ##Introduction
 The purpose of this guide is to provide an introduction to the core workflow associated with leveraging GitHub as a version control system. 
 
-This particular guide illustrates a browser based workflow for interfacing with the GitHub website to achieve basic **[Git](https://help.github.com/articles/github-glossary#Git)** tasks. Being based on GitHub this guide does not leverage any specific local Git client(s). A Git client is used to interface with a Git version control server to retrieve, manage, track and eventually sync local repositories and file changes back to a Git server.
+This particular guide illustrates a browser based workflow for interfacing with the GitHub website to achieve basic **[Git](https://help.github.com/articles/github-glossary#Git)** tasks. Being based on GitHub this guide does not leverage any specific local Git client(s). A Git client is used to interface with a Git version control server to retrieve, manage, track and eventually sync local repositories and file changes back to a remote Git server.
 
 **The core workflow/principles outlined in this guide apply irrespective of whether you are directly interfacing with online Git servers such as GitHub or Visual Studio Team Services or if you are working offline via Git clients that interface with GitHub, Visual Studio Team Services or other Git based version control systems.**
 
