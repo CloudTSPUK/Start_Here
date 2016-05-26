@@ -34,18 +34,38 @@ In almost all version control systems the first branch of a project is taken fro
 
 Subsequent branches can be made to either the master or indeed other branches. The motivation for creating a branch and the point in time in which a branch is taken will come down to either personal preference or a wider branching team or organisation agreed branching strategy.
 
-Some guidance on branching strategies can be found [here](https://msdn.microsoft.com/en-us/library/bb668955.aspx).
+Some guidance on branching strategies can be found [here](https://msdn.microsoft.com/en-us/library/bb668955.aspx) and [here](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows).
 
 This guide will create a branch from the master of the new repository created above. A change wil then be made in this branch and not on the master.
 
 ![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Step_2_Create_A_Branch.gif "Create a branch")
 
 ### 4. Make and [commit](https://help.github.com/articles/github-glossary#commit) changes
+Changes occur as you edit and update a file that is under source control. In this guide the only file currently under source control is README. 
+
+Below illustrates the process for editing the README file in browser and then committing this file with its changes to (in this instance) GitHub. It is considered good practice to provide some commentary or insight into the motivation for a change that is to be commited. 
 
 ![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Step_3_Make_and_commit_changes.gif "Make and commit changes")
 
-### 5. Open a [Pull Request](https://help.github.com/articles/github-glossary#pullRequest)
+### 5. Open a [Pull Request](https://help.github.com/articles/github-glossary#pull-request)
+Comitting a change to a branch in a repository on GitHub does not immediately guarantee that a change is accepted into the master of that repository. 
+
+In order for a comitted change to be included into the master (or branch) of a repository a commit must be associated with a Pull Request. 
+
+A Pull Request can be thought of as raising up a flag or indicator to the original creator or author of the project item or source code. 
 
 ![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Step_4_Open_a_Pull_Request.gif "Open a Pull Request")
-### 6. Merge your Pull Request
+
+### 6. [Merge](https://help.github.com/articles/github-glossary#merge) your Pull Request
 ![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Step_5_Merge_your_Pull _Request.gif "Merge a Pull Request")
+
+**Note**: This guide illustrates an example of where a single user is working in a purely online capacity. This is an example of where the author of the commit and the creator of the pull request owns both the branch and the master of the repository. Due to this the process of creating a pull request for a commit on a branch only to accept and merge said pull request back into the master can appear as slightly convoluted and potentially redundant. 
+
+This example can lead to the question **"Why should I even bother to create a branch when I can simply edit the master directly?"** 
+
+It is generally accepted that branches offer a mechanism for handling different variations of the same application or project code base. These variations will come about as a result of iterating or changing the product/master source code. It could be that each new iteration of the product or each new proposed feature of the product could reside in its own branch. 
+
+It would then be a further consideration as to whether to keep all of these branches or to merge them back into either a parent branch or indeed the master source code. 
+
+All of these types of considerations will come down to the projects broader [branching strategy](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows).
+
