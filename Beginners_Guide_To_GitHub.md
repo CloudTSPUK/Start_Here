@@ -15,7 +15,7 @@ This guide visualises and, where appropriate, builds upon the official introduct
 This guide assumes you have GitHub.com account and Internet access, this is all that is needed to complete this guide. 
 
 ### 1. Log into [GitHub](https://github.com/)
-### 2. Create a new [Repository](https://github.com/CloudTSPUK/Start_Here/blob/master/Git_Terminology#repository)
+### 2. Create a new [Repository](https://github.com/CloudTSPUK/Start_Here/blob/master/Git_Terminology.md#repository)
 The first step to creating any project or body of work when using Git is to create a new repository. Respositories can be created as being either Public or Private. A Public repository is one that is discoverable and accessible by the entire GitHub community. While a Private repository is a repository that is not discoverable by the larger GitHub community and where induvidual users need to be given direct access to the repository in order to work with it. 
 
 The process for creating a repository in GitHub is as follows:
