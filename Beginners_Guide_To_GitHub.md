@@ -52,7 +52,9 @@ Comitting a change to a branch in a repository on GitHub does not immediately gu
 
 In order for a comitted change to be included into the master (or branch) of a repository a commit must be associated with a Pull Request. 
 
-A Pull Request can be thought of as raising up a flag or indicator to the original creator or author of the project item or source code. 
+A Pull Request can be thought of as raising up a flag or indicator to the original creator or author of the project item or source code to inform them that a change has been made that could be reviewed and considered for inclusion in the master (or branch) and ultimately in the product itself. 
+
+The process for creating a Pull Request is demonstrated below.
 
 ![alt text](https://github.com/CloudTSPUK/Start_Here/blob/master/assets/Step_4_Open_a_Pull_Request.gif "Open a Pull Request")
 
